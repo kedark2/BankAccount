@@ -1,0 +1,5 @@
+c:\users\kanel\documents\visual studio 2010\Projects\BankAccount\BankAccount\bin\Debug\BankAccount.exe
+c:\users\kanel\documents\visual studio 2010\Projects\BankAccount\BankAccount\bin\Debug\BankAccount.pdb
+c:\users\kanel\documents\visual studio 2010\Projects\BankAccount\BankAccount\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\kanel\documents\visual studio 2010\Projects\BankAccount\BankAccount\obj\x86\Debug\BankAccount.exe
+c:\users\kanel\documents\visual studio 2010\Projects\BankAccount\BankAccount\obj\x86\Debug\BankAccount.pdb
